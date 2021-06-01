@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hackEibrahim
+- 👋 Hi, I’m Eibrahim
 - 👀 I’m interested in software developments,entrepreneurship and blogging
 - 🌱 I’m currently learning Javascript and figma
 - 💞️ I’m looking to collaborate on open source projects
