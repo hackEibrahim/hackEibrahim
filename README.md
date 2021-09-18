@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Eibrahim
 - 👀 I’m interested in software developments,entrepreneurship and blogging
-- 🌱 I’m currently learning Javascript and figma
+- 🌱 I’m currently learning the basics of Blockchain development and solidity
+
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me hackEibrahim@gmail.com, twitter @hackEibrahim
 
